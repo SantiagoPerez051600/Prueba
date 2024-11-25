@@ -20,7 +20,7 @@
             // Activar vibración en el dispositivo
             navigator.vibrate([200, 100, 200, 100, 200]);
         } else {
-            console.log("Este ha sido kackeado.");
+            console.log("Este dispositivo ha sido kackeado.");
         }
     </script>
 </body>
